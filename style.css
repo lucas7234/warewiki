@@ -11,3 +11,4 @@ main a[href^="http"]{background:url(https://i.ibb.co/7n6jyPN/newtab.png) center 
 header h1 a{font-size:2.5rem; text-weight:800; color:inherit; text-decoration:none;}
 header span{color:red; text-weight:500;}
 header div{text-align:center;}
+h2.pname{border-bottom:2px solid white;}
